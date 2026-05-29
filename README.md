@@ -4,11 +4,11 @@ My name is Ugborugbo David
 💻Skilled in problem solving, logical thinking and eager to master technologies like Machine Learning, python, javascript and cloud computing.<br/>
 Always focusing on turning ideas into real world tools that make life better and smarter<br/>
 
-You can connect with me on [instagram](https://www.instagram.com/aether_geist)
+You can connect with me on [instagram](https://www.instagram.com/itstony/stark.k?igsh=OGZsY313cXhyODFv)
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/aether_geist/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dugborugbo@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/itstony/stark.k?igsh=OGZsY313cXhyODFv/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dugborugbo@gmail.com) 
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
