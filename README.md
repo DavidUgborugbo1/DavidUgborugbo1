@@ -4,7 +4,7 @@ My name is Ugborugbo David
 💻Skilled in problem solving, logical thinking and eager to master technologies like Machine Learning, python, javascript and cloud computing.<br/>
 Always focusing on turning ideas into real world tools that make life better and smarter<br/>
 
-You can connect with me on [instagram](https://www.instagram.com/itstony/stark.k?igsh=OGZsY313cXhyODFv)
+
 
 
 ## 🌐 Socials:
